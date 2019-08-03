@@ -1,3 +1,2 @@
-# Introduction
+# Beancount - 复式记账法
 
-This is the first line to test git subtree feature
